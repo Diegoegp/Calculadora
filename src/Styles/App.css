@@ -1,0 +1,29 @@
+*{
+  background-color: #191c2f;
+}
+
+.App{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: aliceblue;
+
+}
+.title{
+  display: block;
+  text-align: center;
+  margin: 0.5vh;
+
+}
+.Contenedor{
+  width: 500px;
+  height: 750px;
+  margin-top: 3vh;
+  border-radius: 15px;
+  background: #191c2f;
+  box-shadow: 19px 19px 38px #181a2c,
+            -19px -19px 38px #1b1e32;
+}
+

@@ -1,0 +1,25 @@
+.Botonc{
+
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    color: rgb(184, 186, 187);
+    width: 198px;
+    height: 80px;
+    user-select: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    background: #191c2f;
+    box-shadow: 18px 18px 36px #181a2c,
+                -18px -18px 36px #1b1e32;
+  }
+  .Botonc:hover{
+    border-radius: 20px;
+    border-radius: 20px;
+    background: #191c2f;
+    box-shadow: inset 17px 17px 34px #161828,
+                inset -17px -17px 34px #1d2036;
+  }

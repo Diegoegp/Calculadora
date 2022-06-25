@@ -1,0 +1,18 @@
+.display{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  width: 420px;
+  height: 150px;
+  color: rgb(184, 186, 187);
+  padding: 10px;
+  margin: 30px;
+  font-weight: bold;
+  font-size: 35px;
+  word-break: break-all;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  border-radius: 8px;
+  background: #191c2f;
+  box-shadow: inset 12px 12px 24px #151827,
+  inset -12px -12px 24px #1d2037;
+}
